@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+}
+
+h1 {
+  color: #4C0033;
+  margin-top: 0;
+ }
+
+ h3{
+   color: #4C0033;
+   margin-top: 0;
+ }
+
+ .top-container{
+   background-color: #F5EFE6;
+ }
+.middle-container{
+  background-color: #E8DFCA;
+}
+.bottom-container{
+  background-color: #FFE3E1;
+}
